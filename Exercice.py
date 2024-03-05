@@ -13,4 +13,5 @@ def fake_type(words):
         sys.stdout.flush()
     time.sleep(1)
 
-fake_type("Hello World! I am an imaginary being muahahah")
+fake_type("Hello World! I am an imaginary being muahahah!")
+fake_type("I'm gonna come... from the upsidedown... in your dreams... when you are awake...")
